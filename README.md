@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Sachin Khatri** @sachinkhatripro
 - 🤓App Developer(Android) 
-- 💞️ I’m looking to collaborate on projects involving Android apps development, plugin development using Flutter, kotlin, java.
+- 💞️ I’m looking to collaborate on projects involving Android apps development, plugin development using Flutter, Jetpack Compose, kotlin, java.
 - 📫 mail me at **sachinkhatridesign@gmail.com**
 - [<img src ="https://play-lh.googleusercontent.com/9TxIH3XsPBxvwbI8no5fck5avXOi3YHyk2EepJ1WyS0lLG9M639ceblxFGh0VxGEjZBmzf7SzJlnOP0hNFFm1A=w240-h480-rw" width="50">](https://play.google.com/store/apps/details?id=com.skdesign.pourfection) <a href="https://play.google.com/store/apps/details?id=com.skdesign.pourfection">Pourfection</a>
 - [<img src ="https://play-lh.googleusercontent.com/8ADzGniQQcyLWqYKpjSY2yWaK3JtMwoqg8Uay5WHlREXx-g6mJEpyxfQ9ClPJYC_znSUR_Kbmyf9A6jMVdj8Eg=w240-h480-rw" width="50">](https://play.google.com/store/apps/details?id=com.skdesign.repeto) <a href="https://play.google.com/store/apps/details?id=com.skdesign.repeto">Repeto: CBSE Class 9-10 study</a>
